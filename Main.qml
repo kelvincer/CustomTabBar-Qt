@@ -53,7 +53,6 @@ Window {
                     horizontalAlignment: Text.AlignHCenter
                     verticalAlignment: Text.AlignVCenter
                     color: parent.checked ? "black" : "white"
-                    //padding: 2
                     font.bold: true
                     font.pointSize: 14
                     font.family: "Roboto"
@@ -75,7 +74,6 @@ Window {
                     horizontalAlignment: Text.AlignHCenter
                     verticalAlignment: Text.AlignVCenter
                     color: parent.checked ? "black" : "white"
-                    //padding: 2
                     font.bold: true
                     font.pointSize: 14
                     font.family: "Roboto"
